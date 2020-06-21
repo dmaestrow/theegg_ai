@@ -18,6 +18,9 @@ Desarrollar un programa que dado un numero introducido entre 0,0001 y 0,9999 (no
     Nótese que esta primera representación es valida para todos los números con num_digits cifras decimales (por defecto 4).
     A continuación, la correspondiente fracción irreducible se halla explotando el hecho de que el 2 y el 5 son los únicos números primos divisores del denominador.
     Esto permite hallar la solución simultaneamente dividiendo numerador y denominador entre cada uno de estos números (2 y 5) tantas veces como sea posible.
+    
+    
+    ![ ](/home/danmae/Dropbox/EGG/repo/theegg_ai/tarea_21/flowchart_#21.png)
 
 ###Ejecución   
 

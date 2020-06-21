@@ -11,9 +11,9 @@
 
 **Github**: Software de control de versiones basado en Git.
 
-**Algoritmo**:
+**Algoritmo**: Secuencia de instrucciones implementables en un ordenador con el fin de resolver un problema o realizar un cálculo.
 
-**Diagrama de flujo**:
+**Diagrama de flujo**: Representación gráfica de un algoritmo o proceso.
 
 **Transistor**: 
 
