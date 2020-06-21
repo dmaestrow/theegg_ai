@@ -38,9 +38,12 @@ python main_tarea21.py 0.1995
 
 Obteniendo a la salida el número aleatorio empleado y su correspondiente fracción irreducible, como por ejemplo:
 
+
 ```
 x = 0.1995
+```
 
+```
 399/2000
 ```
 ### Requisitos

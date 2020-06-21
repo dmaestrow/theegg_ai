@@ -1,4 +1,4 @@
-#DICCIONARIO
+# DICCIONARIO
 
 **Turing**: Científico ingles considerado como uno de los padres de la ciencia de la computación y precursor de la informática moderna.
  La maquina de Turing y el test de Turing se encuentran entre sus contribuciones más conocidas.
