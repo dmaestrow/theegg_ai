@@ -47,7 +47,7 @@ x = 0.1995
 399/2000
 ```
 ### Requisitos
-Python 2.7.12 o 3.5.2 (probado en Ubuntu).
+Python, probado en 2.7.12 o 3.5.2 (Ubuntu).
 
 ## Referencias
 [1] http://www.nachocabanes.com/retos/reto.php?n=013.
