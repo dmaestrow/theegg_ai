@@ -17,12 +17,14 @@ Se ha implementado una función en python (`get_irreducible_fraction(x,num_digit
 Esta función toma un número x y lo convierte a una representación en forma de fracción usando 10^num_digits como denominador.
 Nótese que esta primera representación es valida para todos los números con num_digits cifras decimales (por defecto 4).
 A continuación, la correspondiente fracción irreducible se halla explotando el hecho de que el 2 y el 5 son los únicos números primos divisores del denominador.
-Esto permite hallar la solución simultaneamente dividiendo numerador y denominador entre cada uno de estos números (2 y 5) tantas veces como sea posible.
+Esto permite hallar la solución simultaneamente dividiendo numerador y denominador entre cada uno de estos números (2 y 5) tantas veces como sea posible. La siguiente figura muestra el diagrama de flujo correspondiente:
 
+![ ](file://flowchart_#21.png)
+![ ](https://github.com/dmaestrow/theegg_ai/blob/master/tarea_21/flowchart_%2321.png)
 
 ### Ejecución   
 
-La función se ha implementado en un script en python que toma como argumento un numero de entrada y visualiza el resultado. 
+La función se ha implementado en un script en python que toma como argumento un numero de entrada y visualiza el resultado (`main_tarea21.py x`). 
 En caso de no pasarle ningún número, el script llama a la función con un numero aleatorio dentro del rango estipulado. 
 
 Para ejecutarlo basta con llamarlo desde línea de consola:
