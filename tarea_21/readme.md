@@ -33,13 +33,9 @@ cd ~/EGG/repo/theegg_ai/tarea_21/
 
 
 ```
-
 python main_tarea21.py 0.1995
 
 ```
-
-```
-
 
 Obteniendo a la salida el número aleatorio empleado y su correspondiente fracción irreducible, como por ejemplo:
 
