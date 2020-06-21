@@ -6,9 +6,9 @@ Desarrollar un programa que dado un numero introducido entre 0,0001 y 0,9999 (no
 
 ##Contexto
 
-    Una fracción irreducible es una fracción en la que el numerador y el denominador no comparten factores en común,
-    de forma que no existe otra fracción equivalente que se pueda escribir en términos más sencillos. Por lo tanto,
-    obtener la fracción irreducible correspondiente a un numero dado se reduce a dividir el numerador y el denominador entre su máximo común divisor.
+Una fracción irreducible es una fracción en la que el numerador y el denominador no comparten factores en común,
+de forma que no existe otra fracción equivalente que se pueda escribir en términos más sencillos. Por lo tanto,
+obtener la fracción irreducible correspondiente a un numero dado se reduce a dividir el numerador y el denominador entre su máximo común divisor.
 
 ##Solución propuesta
 
