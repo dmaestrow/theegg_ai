@@ -24,7 +24,7 @@ Esto permite hallar la solución simultaneamente dividiendo numerador y denomina
 
 ### Ejecución   
 
-La función se ha implementado en un script en python que toma como argumento un numero de entrada y visualiza el resultado (`main_tarea21.py x`). 
+La función se ha implementado en un script en python que toma como argumento un numero de entrada y visualiza el resultado (`main_tarea21.py`). 
 En caso de no pasarle ningún número, el script llama a la función con un numero aleatorio dentro del rango estipulado. 
 
 Para ejecutarlo basta con llamarlo desde línea de consola:
