@@ -6,9 +6,7 @@ Desarrollar un programa que dado un numero introducido entre 0,0001 y 0,9999 (no
 
 ## Contexto
 
-Una fracción irreducible es una fracción en la que el numerador y el denominador no comparten factores en común,
-de forma que no existe otra fracción equivalente que se pueda escribir en términos más sencillos. Por lo tanto,
-obtener la fracción irreducible correspondiente a un numero dado se reduce a dividir el numerador y el denominador entre su máximo común divisor.
+Una fracción irreducible es una fracción en la que el numerador y el denominador no comparten factores en común, de forma que no existe otra fracción equivalente que se pueda escribir en términos más sencillos. Por lo tanto, obtener la fracción irreducible correspondiente a un numero dado se reduce a dividir el numerador y el denominador entre su máximo común divisor.
 
 ## Solución propuesta
 
@@ -19,8 +17,9 @@ Nótese que esta primera representación es valida para todos los números con n
 A continuación, la correspondiente fracción irreducible se halla explotando el hecho de que el 2 y el 5 son los únicos números primos divisores del denominador.
 Esto permite hallar la solución simultaneamente dividiendo numerador y denominador entre cada uno de estos números (2 y 5) tantas veces como sea posible. La siguiente figura muestra el diagrama de flujo correspondiente:
 
-![ ](file://flowchart_#21.png)
-![ ](https://github.com/dmaestrow/theegg_ai/blob/master/tarea_21/flowchart_%2321.png)
+
+![ ](https://raw.githubusercontent.com/dmaestrow/theegg_ai/master/tarea_21/flowchart_%2321.png)
+
 
 ### Ejecución   
 
